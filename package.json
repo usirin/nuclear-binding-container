@@ -1,7 +1,7 @@
 {
   "name": "nuclear-binding-container",
   "version": "0.1.1",
-  "description": "A simple nuclear.js cache module that can be used as a centralized cache for entities.",
+  "description": "A binding registry to be used within a nuclear app to register resolver functions for specific keys.",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rm -rf lib coverage",
