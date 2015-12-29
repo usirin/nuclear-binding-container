@@ -1,4 +1,4 @@
-# nuclear-entity-cache
+# nuclear-binding-container
 
 A binding registry to be used within a nuclear app to register `resolver` functions for specific keys.
 
