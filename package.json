@@ -1,6 +1,6 @@
 {
   "name": "nuclear-binding-container",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple nuclear.js cache module that can be used as a centralized cache for entities.",
   "main": "lib/index.js",
   "scripts": {
