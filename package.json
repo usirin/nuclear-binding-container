@@ -1,6 +1,6 @@
 {
   "name": "nuclear-binding-container",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A binding registry to be used within a nuclear app to register resolver functions for specific keys.",
   "main": "lib/index.js",
   "scripts": {
